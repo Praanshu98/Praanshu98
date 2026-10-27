@@ -34,11 +34,12 @@ I currently work at **TechKN Consulting Services**, where I build and maintain b
 ## 🚀 Featured project
 
 ### [InvesTrack](https://github.com/Praanshu98/invesTrack): Investment Tracking App
+
 Track and manage your investments effortlessly. Buy, sell and stay updated with daily NAVs for 10,000+ mutual funds, all in one place.
+
 - Secure signup and login with JWT authentication
 - NAV charting across multiple time frames
 - **Stack:** Node.js, Express.js, PostgreSQL, Prisma, React, React Router, Tailwind, Chart.js
-- 🔗 [Live site](https://investrack.praanshugrover.com/)
 
 ---
 
