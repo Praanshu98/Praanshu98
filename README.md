@@ -45,13 +45,13 @@ Track and manage your investments effortlessly. Buy, sell and stay updated with 
 
 ## 💼 Experience
 
-- **Backend Developer**, TechKN Consulting Services Pvt. Ltd. (2025 to present)
-- **Technical Project Coordinator**, Indycium Tech LLP (2020 to 2022): led a team of full-stack developers through a PHP to React and Python migration that improved site performance by 40%
+- **Backend Developer**, TechKN Consulting Services Pvt. Ltd.
+- **Technical Project Coordinator**, Indycium Tech LLP: led a team of full-stack developers through a PHP to React and Python migration that improved site performance by 40%
 
 ## 🎓 Education
 
-- MCA, Subharti University (2020 to 2022)
-- BCA, SGT University (2016 to 2019)
+- MCA, Subharti University
+- BCA, SGT University
 
 ---
 
